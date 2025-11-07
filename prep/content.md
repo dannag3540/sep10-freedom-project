@@ -5,11 +5,24 @@ Topic: **Marine calres**
 *  
 * Text
 
-## Part A: existing technology
-* Tech
-  * Detail
-  * [image text](image URL)
-  * Taking a digital dive: a new global survey gets the best look yet at the world's imperiled coral reefs
+## Part A: existing  technology
+### software
+*  National Coral Reef Monitoring Program (NCRMP) Data Visualization Tool
+   *  This wedcite talks about you can viwe diffent coral rife from the Americas
+* https://chei.ucsd.edu/the-software-thats-saving-corals/
+  * This talk about Viscore
+    *   The software translates thousands of underwater photographs and videos into detailed, high-resolution 3D maps of the reef
+    *   Researchers can "virtually" revisit dive sites and use the software to perform detailed analyses that would be time-consuming or impossible in person
+* https://hcas.nova.edu/tools-and-resources/cpce/index.html
+  * This talk abuot CPCe (Coral Point Count with Excel extensions)
+    * CPCe is a Windows-based program that uses a "random point count" method to analyze photos of coral reefs to determine coral cover.
+* https://hcas.nova.edu/tools-and-resources/coralxds/index.html
+  * This talks about CoralXDS (Coral X-radiograph Densitometry System)
+    * CoralXDS is a Windows program that analyzes coral X-ray images to measure growth by examining high-density, low-density, and annual bands.
+       
+  
+  ### technology
+* Talking a digital dive: a new global survey gets the best look yet at the world's imperiled coral reefs
 * The Shift to a Bird's-Eye View: Remote sensing technologies allow researchers to track small changes on a large scale and enable studies of far-flung places from the comfort and safety of home.
   * This link talk about remote sensing and how this can help to observe calres ecositem to keep progers
  * https://www.barrierreef.org/news/news/five-spawning-technologies
