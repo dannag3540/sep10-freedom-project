@@ -8,7 +8,8 @@ Topic: **Marine calres**
 ## Part A: existing  technology
 ### software
 *  National Coral Reef Monitoring Program (NCRMP) Data Visualization Tool
-   *  This wedcite talks about you can viwe diffent coral rife from the Americas
+   *  This wedsite talks about you can viwe diffent coral rife from the Americas
+    *  alwing user to select differnt areas and corals to view their development  
 * https://chei.ucsd.edu/the-software-thats-saving-corals/
   * This talk about Viscore
     *   The software translates thousands of underwater photographs and videos into detailed, high-resolution 3D maps of the reef
