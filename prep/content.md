@@ -28,7 +28,7 @@ Topic: **Marine calres**
   ## complex
   leate complex:
   mildly complex:
-  most complex:
+  most complex:CoralXDS
   ### technology
 * Talking a digital dive: a new global survey gets the best look yet at the world's imperiled coral reefs
 * The Shift to a Bird's-Eye View: Remote sensing technologies allow researchers to track small changes on a large scale and enable studies of far-flung places from the comfort and safety of home.
@@ -49,5 +49,9 @@ Topic: **Marine calres**
 
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+*  Under water underla like 
+  *  It would couder tha corals from dirct sunligh and help cole them of
+  *  IT can de tackan appart esely at night
+  * And it can de made of soler panles
+  * It would have lights and camars
+  *
