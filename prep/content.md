@@ -25,10 +25,13 @@ Topic: **Marine calres**
     * this talk about CPCe(Coral Point Count with Excel Extensions)
        * CPCe, which stands for Coral Point Count with Excel Extensions, is a free software program used to analyze coral reef health by determining the percentage of coral and              other substrates in underwater photographs
         ![images](https://github.com/user-attachments/assets/e5f0d082-62dc-40ad-a2a7-5bd25823a7ef)   
-  ## complex
-  leate complex:
-  mildly complex:
-  most complex:CoralXDS
+  
+   ## Time line 
+   * NCRMP launched in 2011
+     * is wedsite that allows users to see corals development over years around the world
+     * alwing user to select differnt areas and corals to view their development
+  *Viscore 2014    
+   
   ### technology
 * Talking a digital dive: a new global survey gets the best look yet at the world's imperiled coral reefs
 * The Shift to a Bird's-Eye View: Remote sensing technologies allow researchers to track small changes on a large scale and enable studies of far-flung places from the comfort and safety of home.
@@ -47,7 +50,8 @@ Topic: **Marine calres**
     * Nanny cams
      * Remote monitoring: The cameras use artificial intelligence (AI) to remotely track the growth and survival of coral larvae and babies in tanks and nurseries.
 
-
+More interaction tho Corals 
+More interaction with people
 ## Part B: possible future technology
 *  Under water underla like 
   *  It would couder tha corals from dirct sunligh and help cole them of
